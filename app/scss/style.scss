@@ -38,4 +38,19 @@
 
 }
 
+.footer{
+	&__content{
+		background-color: #DFDFDF;
+
+	}
+	&__copyright{
+		background-color: $title;
+        color: #A1A1A1;
+        text-align: center;
+        padding: 42px 0 41px;
+
+	}
+}
+
+
 
